@@ -13,7 +13,7 @@ Some assignments may ask you to follow a set of instructions, while others will
 ask you to figure out your own solution to pass specific tests. This lesson is
 your first assignment!
 
-All assignments are hosted on GitHub. In order to work on them, however, you
+All assignments are hosted on GitHub In order to work on them, however, you
 will need to complete work on your local machine. Once you're done, you will
 submit your assignment to Canvas using a platform called CodeGrade.
 
